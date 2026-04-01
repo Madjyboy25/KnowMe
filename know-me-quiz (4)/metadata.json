@@ -1,0 +1,5 @@
+{
+  "name": "Know Me Quiz",
+  "description": "A 'How Well Do You Know Me' quiz app where creators can set answers and share a link for friends to test their knowledge.",
+  "requestFramePermissions": []
+}
